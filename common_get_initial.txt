@@ -1,4 +1,4 @@
-POST /square/common_common/getinitialvalues HTTP/1.1
+POST /square/common_common/ HTTP/1.1
 
 Host: 192.168.x.x:
 
@@ -20,10 +20,10 @@ Origin: http://192.168.x.x
 
 Connection: keep-alive
 
-Referer: http://192.168.0.0./traacs/basic_couponreport_couponreport/couponreport/strMenuId/mnu_frontoffice
+Referer: http://192.168.0.0./tr/basic_couponreport
 
 Cookie: tw_php74_redesign_trunk_1=itmqqsu2t78d439sffh1nkgdbd
 
 
 
-strTransactionCategoryName=*&datDocumentDateAjxKey=*27/02/2026&blnactiveAjxKey=true* 
+strTransactionCategoryName=*
