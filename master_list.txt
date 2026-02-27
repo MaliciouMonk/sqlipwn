@@ -1,0 +1,3 @@
+targets.txt
+common_get_initial.txt
+group_coupon.txt
